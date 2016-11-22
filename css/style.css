@@ -146,11 +146,18 @@
 .alt5 {
 	font-family: 'Poppins', sans-serif;
 	background: white;
-	min-height: 400px;
+	min-height: 500px;
 	color: black;
 }
 
 .alt6 {
+	font-family: 'Poppins', sans-serif;
+	background: white;
+	min-height: 300px;
+	color: black;
+}
+
+.info {
 	font-family: 'Poppins', sans-serif;
 	background: #f2b693;
 	min-height: 300px;
@@ -192,3 +199,21 @@
 .item span {
     font-style: normal;
 }
+/*----Carousel Test----*/
+/*----Form CSS----*/
+#field {
+	width: 40%;
+	margin: 0 auto;
+}
+
+#rosebutton {
+	background-color: white;
+    border: none;
+    color: black;
+    padding: 12px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	border: 1px solid black;
+}
+/*----Form CSS----*/
