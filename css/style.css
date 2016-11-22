@@ -1,0 +1,160 @@
+/*----Nav Bar----*/
+.my-navbar {
+	font-family: 'Poppins', sans-serif;
+	background: white;
+	border-radius: 0;
+	border: 0;
+}
+
+.my-navbar .navbar-brand {
+	color: #f2b693;
+}
+
+.my-navbar .mn-primarymenu li a{
+	color: #f2b693;
+}
+
+ .navbar-default .navbar-nav > .active{
+   color: white;
+   background: #f2b693;
+ }
+ .navbar-default .navbar-nav > .active > a, 
+ .navbar-default .navbar-nav > .active > a:hover, 
+ .navbar-default .navbar-nav > .active > a:focus {
+      color: white;
+      background: #f2b693;
+ }
+/*----Nav Bar----*/
+
+/*----Misc CSS----*/
+.logos {
+	float: left;
+	height: 16px;
+	width: 16px;
+}
+
+.padding {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+/*----Misc CSS----*/
+
+/*----Home CSS----*/
+#home {
+	background-image:url('../images/testimage.jpg');
+	background-attachment: fixed;
+	background-position: top left;
+	color: black;
+	min-height: 800px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family: 'Poppins', sans-serif;
+}
+
+#test2 {
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+}
+
+#rosetext {
+	color: #f2b693;
+}
+
+.btn {
+	background: white;
+	color: #f2b693;
+}
+
+.btn:hover {
+	background: #f2b693;
+	color: white;
+}
+
+#test {
+	font-family: 'Yellowtail', cursive;
+}
+
+/*----Home CSS----*/
+
+/*----About CSS----*/
+
+#about {
+	background-image:url('../images/sample3.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	min-height: 600px;
+	margin-bottom: 0px;
+	font-family: 'Poppins', sans-serif;
+	color: white;
+}
+
+.alt1 {
+	font-family: 'Poppins', sans-serif;
+	background: #f2b693;
+	min-height: 400px;
+	color: black;
+}
+/*----About CSS----*/
+
+/*----Life CSS---*/
+#life {
+	background: #eee;
+	min-height: 600px;
+	margin-bottom: 0px;
+	font-family: 'Poppins', sans-serif;
+	color: black;
+}
+
+.alt3 {
+	font-family: 'Poppins', sans-serif;
+	background: white;
+	min-height: 500px;
+	color: black;
+}
+/*----Life CSS---*/
+
+/*----Hair & Beauty CSS---*/
+#hair {
+	background: #ccc;
+	min-height: 600px;
+	margin-bottom: 0px;
+	font-family: 'Poppins', sans-serif;
+	color: black;
+}
+
+.alt4 {
+	font-family: 'Poppins', sans-serif;
+	background: #f2b693;
+	min-height: 500px;
+	color: black;
+}
+/*----Hair & Beauty CSS---*/
+
+/*----Contact CSS----*/
+#contact {
+	background-image:url('../images/sample7.jpg');
+	background-attachment: fixed;
+	background-position: left center;
+	/*background: #ccc;*/
+	min-height: 600px;
+	margin-bottom: 0px;
+	font-family: 'Poppins', sans-serif;
+	color: black;
+}
+
+.alt5 {
+	font-family: 'Poppins', sans-serif;
+	background: white;
+	min-height: 500px;
+	color: black;
+}
+/*----Contact CSS----*/
+
+/*----Footer CSS----*/
+.foot {
+	color: #f2b693;
+	background: white;
+	min-height: 60px;
+	text-align: center;
+}
+/*----Footer CSS----*/
