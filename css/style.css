@@ -80,30 +80,37 @@
 /*----About CSS----*/
 
 #about {
-	background-image:url('../images/sample3.jpg');
+	background-image:url('../images/test1.jpg');
 	background-attachment: fixed;
-	background-position: center;
+	background-position: top right;
 	min-height: 600px;
 	margin-bottom: 0px;
 	font-family: 'Poppins', sans-serif;
-	color: white;
+	color: black;
 }
 
 .alt1 {
 	font-family: 'Poppins', sans-serif;
 	background: #f2b693;
-	min-height: 400px;
+	min-height: 300px;
 	color: black;
 }
 /*----About CSS----*/
 
 /*----Life CSS---*/
 #life {
-	background: #eee;
+	background-image:url('../images/test2.jpg');
+	background-attachment: fixed;
+	background-position: top right;
 	min-height: 600px;
 	margin-bottom: 0px;
 	font-family: 'Poppins', sans-serif;
 	color: black;
+}
+
+.verse {
+	width: 500px;
+	height: 450px;
 }
 
 .alt3 {
@@ -112,11 +119,15 @@
 	min-height: 500px;
 	color: black;
 }
+
 /*----Life CSS---*/
 
 /*----Hair & Beauty CSS---*/
 #hair {
-	background: #ccc;
+	background: white;
+	background-image:url('../images/test3.png');
+	background-attachment: fixed;
+	background-position: top right;
 	min-height: 600px;
 	margin-bottom: 0px;
 	font-family: 'Poppins', sans-serif;
@@ -146,7 +157,7 @@
 .alt5 {
 	font-family: 'Poppins', sans-serif;
 	background: white;
-	min-height: 500px;
+	min-height: 300px;
 	color: black;
 }
 
