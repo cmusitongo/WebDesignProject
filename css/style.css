@@ -40,11 +40,11 @@
 }
 /*----Misc CSS----*/
 
-/*----Home CSS----*/
+/*----Index CSS----*/
 #home {
 	background-image:url('../images/testimage.jpg');
 	background-attachment: fixed;
-	background-position: top left;
+	background-position: center left;
 	color: black;
 	min-height: 800px;
 	margin-top: 0px;
@@ -99,9 +99,9 @@
 
 /*----Life CSS---*/
 #life {
-	background-image:url('../images/test2.jpg');
+	background-image:url('../images/wallpaper2.jpg');
 	background-attachment: fixed;
-	background-position: top right;
+	background-position: bottom center;
 	min-height: 600px;
 	margin-bottom: 0px;
 	font-family: 'Poppins', sans-serif;
@@ -118,6 +118,21 @@
 	background: white;
 	min-height: 500px;
 	color: black;
+}
+
+#important {
+	text-decoration: underline;
+	font-weight: bold;
+}
+.stylebutton {
+	background-color: white;
+    border: none;
+    color: black;
+    padding: 12px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+	border: 1px solid black;
 }
 
 /*----Life CSS---*/
@@ -213,8 +228,8 @@
 /*----Carousel Test----*/
 /*----Form CSS----*/
 #field {
-	width: 40%;
 	margin: 0 auto;
+	width: 40%;
 }
 
 #rosebutton {
