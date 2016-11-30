@@ -198,6 +198,7 @@
 
 /*----Footer CSS----*/
 .foot {
+	padding: 20px;
 	color: #f2b693;
 	background: white;
 	min-height: 60px;
