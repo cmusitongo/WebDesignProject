@@ -47,7 +47,7 @@
 
 /*----Index CSS----*/
 #home {
-	background-image:url('../images/testimage.jpg');
+	background-image:url('../images/indexjumbo.jpg');
 	background-attachment: fixed;
 	background-position: center left;
 	color: black;
@@ -85,7 +85,7 @@
 /*----About CSS----*/
 
 #about {
-	background-image:url('../images/test1.jpg');
+	background-image:url('../images/aboutjumbo.jpg');
 	background-attachment: fixed;
 	background-position: top right;
 	min-height: 600px;
@@ -104,7 +104,7 @@
 
 /*----Life CSS---*/
 #life {
-	background-image:url('../images/wallpaper2.jpg');
+	background-image:url('../images/lifejumbo.jpg');
 	background-attachment: fixed;
 	background-position: bottom center;
 	min-height: 600px;
@@ -145,7 +145,7 @@
 /*----Hair & Beauty CSS---*/
 #hair {
 	background: white;
-	background-image:url('../images/test3.png');
+	background-image:url('../images/beautyjumbo.png');
 	background-attachment: fixed;
 	background-position: top right;
 	min-height: 600px;
@@ -164,7 +164,7 @@
 
 /*----Contact CSS----*/
 #contact {
-	background-image:url('../images/sample7.jpg');
+	background-image:url('../images/contactjumbo.jpg');
 	background-attachment: fixed;
 	background-position: left center;
 	/*background: #ccc;*/
@@ -235,10 +235,16 @@
 /*----Form CSS----*/
 #field {
 	margin: 0 auto;
+}
+
+#formInput {
 	width: 40%;
 }
 
-#rosebutton {
+#textarea {
+	width: 50%;
+}
+.rosebutton {
 	background-color: white;
     border: none;
     color: black;
