@@ -63,7 +63,13 @@
 }
 
 #rosetext {
+	font-size: 18px;
+	padding: 5px;
 	color: #f2b693;
+}
+
+#textpadding {
+	padding-top: 10px;
 }
 
 .btn {
@@ -237,7 +243,7 @@
 	margin: 0 auto;
 }
 
-#formInput {
+.formInput {
 	width: 40%;
 }
 
